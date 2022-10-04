@@ -1,9 +1,9 @@
 <?php
 
-namespace Webfucktory\PackageName\Tests;
+namespace Condividendo\ArubaEInvoicing\Tests;
 
+use Condividendo\ArubaEInvoicing\ServiceProvider;
 use Orchestra\Testbench\TestCase as BaseTestCase;
-use Webfucktory\PackageName\ServiceProvider;
 
 abstract class TestCase extends BaseTestCase
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Webfucktory\PackageName\Tests\Feature;
+namespace Condividendo\ArubaEInvoicing\Tests\Feature;
 
-use Webfucktory\PackageName\Tests\TestCase;
+use Condividendo\ArubaEInvoicing\Tests\TestCase;
 
 class ExampleTest extends TestCase
 {

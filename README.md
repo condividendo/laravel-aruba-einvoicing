@@ -1,12 +1,12 @@
-# Package Name
+# Laravel Aruba EInvoicing
 
-[![Latest Version](http://img.shields.io/packagist/v/webfucktory/package-name.svg?label=Release&style=for-the-badge)](https://packagist.org/packages/webfucktory/package-name)
-[![MIT License](https://img.shields.io/github/license/webfucktory/package-name.svg?label=License&color=blue&style=for-the-badge)](https://github.com/webfucktory/package-name/blob/master/LICENSE.md)
+[![Latest Version](http://img.shields.io/packagist/v/condividendo/laravel-aruba-einvoicing.svg?label=Release&style=for-the-badge)](https://packagist.org/packages/condividendo/laravel-aruba-einvoicing)
+[![MIT License](https://img.shields.io/github/license/condividendo/laravel-aruba-einvoicing.svg?label=License&color=blue&style=for-the-badge)](https://github.com/condividendo/laravel-aruba-einvoicing/blob/master/LICENSE.md)
 
 ## Installation
 
 ```shell
-composer require webfucktory/package-name
+composer require condividendo/laravel-aruba-einvoicing
 ```
 
 ## Usage
